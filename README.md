@@ -58,6 +58,16 @@ Uri uri = Uri.parse("smsto:+8801892837253");
 ```
 
 
+## Send Email
+
+```
+Intent intent = new Intent(Intent.ACTION_SENDTO, Uri.fromParts("mailto","email@email.com", null));
+intent.putExtra(Intent.EXTRA_SUBJECT, subject);
+intent.putExtra(Intent.EXTRA_TEXT, message);
+startActivity(Intent.createChooser(intent, "Choose an Email client :"));
+```
+
+
 ## Go to Massanger
 
 ```
