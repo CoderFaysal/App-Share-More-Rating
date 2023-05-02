@@ -100,6 +100,12 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/3.jpg
 
 
 
+## All Right Reserved by Innovative Programmer ❤️
+### Buy Me a coffie - https://www.buymeacoffee.com/coderfaysal
+
+
+
+
 
 
 
