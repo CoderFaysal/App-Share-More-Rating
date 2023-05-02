@@ -48,6 +48,16 @@ Intent intent = new Intent(Intent.ACTION_DIAL);
 ```
 
 
+## Send SMS
+
+```
+Uri uri = Uri.parse("smsto:+8801892837253");
+        Intent intent = new Intent(Intent.ACTION_SENDTO, uri);
+        intent.putExtra("sms_body", "Hello Dear");  
+        startActivity(intent);
+```
+
+
 ## Go to Massanger
 
 ```
