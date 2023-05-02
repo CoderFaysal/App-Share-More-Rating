@@ -48,3 +48,42 @@ Intent intent = new Intent(Intent.ACTION_DIAL);
 ```
 
 
+## Go to Massanger
+
+```
+https://m.me/coderfaysal
+```
+
+
+## Go to Whatsapp
+
+```
+https://wa.me/+8801892837253
+``
+
+
+## Youtube Thumbnil Link
+
+```
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg
+```
+
+
+### Optional
+
+```
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/1.jpg
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/2.jpg
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/3.jpg
+```
+
+
+
+
+
+
+
+
+
+
+
