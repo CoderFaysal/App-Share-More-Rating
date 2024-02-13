@@ -73,6 +73,11 @@ startActivity(Intent.createChooser(intent, "Choose an Email client :"));
 ```
 https://m.me/coderfaysal
 ```
+## Go to Telegram
+
+```
+https://t.me/CoderFaysal
+```
 
 
 ## Go to Whatsapp
